@@ -1,0 +1,16 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local expense data (may contain personal financial information)
+expenses.csv
+
+# Editor and operating system files
+.DS_Store
+.vscode/
